@@ -11,7 +11,7 @@ console.log(typeof mydate);
 
 let mycreateddate=new Date(2026,6,10)
 console.log(mycreateddate.toDateString());
-
+console.log(Math.floor(Date.now()/1000));// in second
 
 let newDate =new Date()
 console.log(newDate);
