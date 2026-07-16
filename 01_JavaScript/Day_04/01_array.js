@@ -20,8 +20,8 @@ const myArr2 = new Array(1, 2, 3, 4)
 
 // const newArr = myArr.join()
 
-// console.log(myArr);
-// console.log( newArr);
+// console.log(myArr);/// comes in form of array
+// console.log( newArr); ///comes in form of value
 
 
 // slice, splice
